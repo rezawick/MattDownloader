@@ -1,0 +1,12 @@
+{
+  "job_id": "job-hsiwjjwnf",
+  "source_url": "https://youtube.com/watch?v=ACE9ZaQD-lI",
+  "created_at_utc": "2026-05-17T12:13:13Z",
+  "mode": "single",
+  "total_size_bytes": 1128947,
+  "chunk_size_bytes": 99614720,
+  "chunk_count": 0,
+  "single_file_path": "jobs/job-hsiwjjwnf/file.bin",
+  "chunks_path_prefix": "jobs/job-hsiwjjwnf/chunks/chunk_",
+  "suggested_filename": "watch"
+}
